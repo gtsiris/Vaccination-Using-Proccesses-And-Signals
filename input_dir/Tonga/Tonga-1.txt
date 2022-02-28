@@ -1,0 +1,10 @@
+4617 Fidev Yvmxxnol Tonga 99 EDS YES 25-6-2003
+7500 Rltg Odorhu Tonga 16 SIDS YES 29-11-2009
+4970 Nue Bvhkauvrop Tonga 95 NBIA YES 8-2-2011
+631 Yvyjl Issdkrhk Tonga 75 HiB_disease NO
+8719 Vakqcf Bivznj Tonga 116 BSE NO
+7369 Echuhvpipk Mfaelskz Tonga 87 MPS_VI NO
+4970 Nue Bvhkauvrop Tonga 95 NCIP YES 29-12-2010
+9132 Zosutepttoq Cuz Tonga 89 RS NO
+3770 Cikskvqlwc Dai Tonga 106 HAS YES 6-7-2016
+5472 Ojfi Hptbuq Tonga 57 PE YES 24-3-2019
