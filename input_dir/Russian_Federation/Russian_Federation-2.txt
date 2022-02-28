@@ -1,0 +1,7 @@
+7009 Jvdr Mqvx Russian_Federation 63 HiB_disease YES 7-11-2000
+1059 Hzd Zbemzvpltw Russian_Federation 111 COLD NO
+7174 Yzq Dristkityw Russian_Federation 77 CFIDS YES 1-9-2012
+9999 Tcc Dwoutx Russian_Federation 82 CAPD NO
+1059 Hzd Zbemzvpltw Russian_Federation 111 SARS NO
+3342 Jau Izfntjwazl Russian_Federation 5 CMT_disease NO
+2092 Lffbfakadua Txxrlcimuxhn Russian_Federation 30 ZES YES 18-5-2001
